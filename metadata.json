@@ -1,0 +1,9 @@
+{
+  "name": "Pocket Coder",
+  "description": "A compact, portable coding environment with an integrated AI chat assistant. It features a functional file system, code editor, and a terminal, allowing you to code and get AI assistance in a single, streamlined interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
